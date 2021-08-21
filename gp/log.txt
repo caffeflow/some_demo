@@ -1,0 +1,3 @@
+loss: 2.2683 - categorical_crossentropy: 2.2683 - categorical_accuracy: 0.1543 - val_loss: 2.2951 - val_categorical_crossentropy: 2.2951 - val_categorical_accuracy: 0.1468
+loss: 2.1437 - categorical_crossentropy: 2.1437 - categorical_accuracy: 0.3125 - val_loss: 2.1943 - val_categorical_crossentropy: 2.1943 - val_categorical_accuracy: 0.1725
+loss: 1.4332 - categorical_crossentropy: 1.4332 - categorical_accuracy: 0.5412 - val_loss: 1.3759 - val_categorical_crossentropy: 1.3759 - val_categorical_accuracy: 0.5620
